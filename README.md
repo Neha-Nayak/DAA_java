@@ -48,9 +48,4 @@ Prim's algorithm.<br/><br/>
 10. Write Java programs to <br/>
 (a) Implement All-Pairs Shortest Paths problem using Floyd's algorithm.<br/>
 (b) Implement Travelling Sales Person problem using Dynamic programming.<br/><br/>
-11. Design and implement in Java to find a subset of a given set S = {Sl, S2,.....,Sn} of n 
-positive integers whose SUM is equal to a given positive integer d. For example, if S ={1, 2, 
-5, 6, 8} and d= 9, there are two solutions {1,2,6}and {1,8}. Display a suitable message, if 
-the given problem instance doesn't have a solution. <br/><br/>
-12. Design and implement in Java to find all Hamiltonian Cycles in a connected undirected 
-Graph G of n vertices using backtracking principle.
+
